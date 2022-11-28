@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Araque and Baquero AirBNB Console """
+"""contains the entry point of the command interpreter"""
 import cmd
 from models import storage
 from models.engine import file_storage
